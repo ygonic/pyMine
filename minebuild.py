@@ -1,4 +1,4 @@
--# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 u"""
 this module will build a mine-map
